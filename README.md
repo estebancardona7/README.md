@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adrian-esteban-cardona-44549b198/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-esteban-cardona/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adrian-esteban-cardona/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-esteban-cardona/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
